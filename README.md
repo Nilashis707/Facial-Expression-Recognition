@@ -6,6 +6,8 @@ There is a separate python code for running the project, named as model_run. The
 
 All the image preprocessing has been done in the model_run file.
 
+The Haar Cascade classifier that's required for the project can also be found in the repository as a xml file.
+
 Dataset can be downloaded from here- https://www.kaggle.com/datasets/aadityasinghal/facial-expression-dataset
 
 
